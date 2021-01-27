@@ -1,0 +1,110 @@
+/* Стили обнуления */
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+li {
+	list-style: none;
+}
+a,
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: inherit;
+	font-size: inherit;
+}
+img {
+	vertical-align: top;
+}
+/* --------------- */
+.main__text{
+	color: saddlebrown;
+	}
+p{
+	color: white;
+}
+p{
+	color: red;
+}
+#text__text{
+	color: slateblue;
+}
+ .manu__wraper li a{
+	color: rgb(236, 10, 161);
+}
+.header {
+	color: rgb(21, 21, 22);
+}
+.manu {
+	color: springgreen;
+}
+.manu__wraper {
+	color: tomato;
+}
+.manu__wraper ul {
+	color: tomato;
+}
+.manu__wraper ul li a{
+	color: tomato;
+}
+.main p{
+	color: black;
+}
+.main__title {
+	color: red;
+}
+h2, h3{
+	color: salmon;
+}
+.main__text .text__text {
+	font-weight: bold;
+	font-size: 24px;
+}
+.main__content1 {
+	color: red;
+	background-color: rgb(204, 238, 219);
+}
+.main__text1 p{
+	color: teal;
+}
+.main__content2 p{
+	color: slateblue;
+}
+.main__subcontent span{
+	color: red;
+	font-size: 18px;
+}
+.main__subsubtitle h3{
+	color: sienna;
+	background-color: tan;
+}
+.main__text3 p {
+	font-size: 20px;
+	color: red;
+}
+.main__img {
+	background-color: hotpink;
+}
+.footer {
+	background-color: grey;
+}
+.footer__link a {
+	color: green;
+	font-weight: bold;
+	font-size: 20px;
+}
+.footer__link{
+	text-align: center;
+}
